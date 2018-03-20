@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109327709117",
+    "firebase_url": "https://authtry1-e923e.firebaseio.com",
+    "project_id": "authtry1-e923e",
+    "storage_bucket": "authtry1-e923e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109327709117:android:5e2fd63722b8716a",
+        "android_client_info": {
+          "package_name": "test.authtry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109327709117-tjspqvcffgumemnlteekg38ut8ffq4da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.authtry1",
+            "certificate_hash": "42417edaa7018b1110642ca4b52da262cd9f9a21"
+          }
+        },
+        {
+          "client_id": "109327709117-b77heesjtqom4qajcticmcij70i9ppgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCywPR3dRL3Xe8oTL_nm3GbudvlyD3i7T8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109327709117-b77heesjtqom4qajcticmcij70i9ppgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
