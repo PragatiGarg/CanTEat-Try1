@@ -43,6 +43,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this,ProfileActivity.class));
                 break;
             case R.id.buttonOrders:
+                startActivity(new Intent(this,OrderActivity.class));
                 Toast.makeText(this, "This service will be made available shortly", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.buttonMenu:
